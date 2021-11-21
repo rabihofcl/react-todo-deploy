@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-todo-deploy/static/css/main.850f766c.chunk.css",
+    "main.js": "/react-todo-deploy/static/js/main.1a33c3dd.chunk.js",
+    "main.js.map": "/react-todo-deploy/static/js/main.1a33c3dd.chunk.js.map",
+    "runtime-main.js": "/react-todo-deploy/static/js/runtime-main.6bfe82dc.js",
+    "runtime-main.js.map": "/react-todo-deploy/static/js/runtime-main.6bfe82dc.js.map",
+    "static/js/2.2a341221.chunk.js": "/react-todo-deploy/static/js/2.2a341221.chunk.js",
+    "static/js/2.2a341221.chunk.js.map": "/react-todo-deploy/static/js/2.2a341221.chunk.js.map",
+    "static/js/3.b3f2782f.chunk.js": "/react-todo-deploy/static/js/3.b3f2782f.chunk.js",
+    "static/js/3.b3f2782f.chunk.js.map": "/react-todo-deploy/static/js/3.b3f2782f.chunk.js.map",
+    "index.html": "/react-todo-deploy/index.html",
+    "static/css/main.850f766c.chunk.css.map": "/react-todo-deploy/static/css/main.850f766c.chunk.css.map",
+    "static/js/2.2a341221.chunk.js.LICENSE.txt": "/react-todo-deploy/static/js/2.2a341221.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6bfe82dc.js",
+    "static/js/2.2a341221.chunk.js",
+    "static/css/main.850f766c.chunk.css",
+    "static/js/main.1a33c3dd.chunk.js"
+  ]
+}
